@@ -6,7 +6,7 @@
 //
 // Create Date:   19:20:04 04/26/2020
 // Design Name:   FPCVT
-// Module Name:   /home/ise/Project2/testbench_605291133.v
+// Module Name:   /home/ise/Project2/testbench_id.v
 // Project Name:  Project2
 // Target Device:  
 // Tool versions:  
