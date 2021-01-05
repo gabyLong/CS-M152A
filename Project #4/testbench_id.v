@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////// 
 // Engineer:		Gabriella Long
-//						605291133
+//						
 // Create Date:   22:20:08 05/12/2020
 // Design Name:   vending_machine
 // Module Name:   /home/ise/Project4/testbench_605291133.v
