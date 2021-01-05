@@ -6,7 +6,7 @@
 //
 // Create Date:   20:51:35 05/08/2020
 // Design Name:   clock_gen
-// Module Name:   /home/ise/Project3/testbench_605291133.v
+// Module Name:   /home/ise/Project3/testbench_id.v
 // Project Name:  Project3
 // Target Device:  
 // Tool versions:  
