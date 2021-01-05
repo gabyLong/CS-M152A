@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Engineer: 		 Gabriella Long
-// 					 605291133
+// 					 
 // Create Date:    01:22:08 05/03/2020 
 // Design Name: 
 // Module Name:    clock_gen 
