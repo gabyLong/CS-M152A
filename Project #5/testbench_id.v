@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 ////////////////////////////////////////////////////////////////////////////////
 // Engineer:		Gabriella Long
-//						605291133
+//						
 // Create Date:   01:14:34 05/26/2020
 // Design Name:   parking_meter
 // Module Name:   /home/ise/Project5/testbench_605291133.v
